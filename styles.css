@@ -1,0 +1,50 @@
+/* General styles */
+
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 40px;
+}
+
+h1 {
+color: blue;
+background-color: blue;
+border: 1px solid black;
+}
+
+p {
+color: red;
+}
+<p>
+span {
+border: 1px solid black;
+background-color: lime;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+ul,ol,dl,p {
+  font-size: 3.5rem;
+}
+
+li, p {
+  line-height: 3.5;
+}
+
+/* Description list styles */
+
+
+dd, dt {
+  line-height: 3.5;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 3.5rem;
+}
+  </body>
+</html>
